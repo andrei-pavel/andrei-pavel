@@ -43,7 +43,7 @@
 - 🤔 I’m looking for help with <b>promoting new technologies in the world</b>. 🚀
 - 💬 Ask me about <b>why Rust & Flutter are awesome</b>. 👊
 - ⚡️ Fun-Fact: <b>I once git rebased succesfully and lived</b>. 😌
-- 📫 How to reach me: <b><a link='mailto:andrei.pavel@cti.pub.ro'>andrei.pavel@cti.pub.ro</a></b>. 📬
+- 📫 How to reach me: <b><a link='mailto:andrei.pavel@mail.com'>andrei.pavel@mail.com</a></b>. 📬
 - 📝[CV/Resume](https://andrei-pavel.github.io/resume) 📄
 
 
